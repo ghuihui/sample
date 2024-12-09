@@ -7,7 +7,7 @@
 
 ### How to call Colorme object?
 `parentWin.Colorme`
-![Screenshot 2024-02-26 2 05 36 PM](https://github.com/ghuihui/worktest/assets/105323433/f6ab8f95-cd86-43ee-8bf9-72891ec413e5)
+![307680580-f6ab8f95-cd86-43ee-8bf9-72891ec413e5](https://github.com/user-attachments/assets/30d793b7-99d6-47b3-8c30-fde2463367dc)  
 <br></br>
 ### GTAG購入拡張CV自動取得はできるか？
 - できるよう...?
@@ -30,7 +30,7 @@
 #### 場所１：購入ページ以外、ウェブサイト全体に反映する場所  
 - 集客 ＞ [検索エンジン対策](http://admin.shop-pro.jp/?mode=design_base) > 共通 > 一番下「headタグ内フリースペース設定」のすべての項目
 <br></br>
-![ColorMe](https://github.com/ghuihui/worktest/assets/105323433/c23c172f-63e3-42a4-8020-2cd416089ca2)  
+![306837108-c23c172f-63e3-42a4-8020-2cd416089ca2](https://github.com/user-attachments/assets/03c30376-65df-4b0c-b3a4-dd9be1e07d04)  
 
 #### 場所２：購入ページだけに反映する場所  
 - ツール > コンバージョンタグ (らしい)
@@ -39,7 +39,7 @@
 - 基本的に的に `body` に貼り付ける
 - [公式サイト](https://help.shop-pro.jp/hc/ja/articles/360062486394-%E3%82%B3%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BF%E3%82%B0%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)からは、`head`に貼り付けると反映されない場合があるとの記載があるから（下記画像を参照）
 <br></br>
-![image](https://github.com/ghuihui/worktest/assets/105323433/97f44887-fca5-4fc2-b7f4-a222c2859d4c)
+![306861643-97f44887-fca5-4fc2-b7f4-a222c2859d4c](https://github.com/user-attachments/assets/fe60abdd-21ac-4ffd-a17e-3a3c5ecdb374)  
 <br></br>
   
 ## イベントスニペットの貼り付ける場所
